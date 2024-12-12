@@ -1,4 +1,6 @@
 print("string manipulation exercise")
 print('string concaknation is done with "+"sign')
 print('e.g. print("hello"+"Jenny")')
+print()
 print("New lines can be created with a backslash and n")
+print("hey "+input("enter your name ")+"! how are you")
